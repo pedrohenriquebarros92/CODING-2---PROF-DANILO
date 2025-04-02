@@ -1,4 +1,2 @@
-# CODING-2---DANILO
+# CODING-2---PROF. DANILO
 It's my practice environment for this subject.
-
-Class about Git
